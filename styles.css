@@ -7,16 +7,24 @@ header{
 }
 
 .latest-news-section{
+	padding:10px;
+	margin:5px;
 	background-color:white;
 	border-radius:25px;
-	align-items:center;
-	align-content:center;
-	vertical-align:middle;
+	text-align:center;
 	
 }
 .main-article{
-	
+	padding:10px;
+	margin:5px;
+	background-color:white;
+	border-radius:25px;
+	text-align:center;
 }
 .pictorial-news-section{
-	
+	padding:10px;
+	margin:5px;
+	background-color:white;
+	border-radius:25px;
+	text-align:center;
 }
