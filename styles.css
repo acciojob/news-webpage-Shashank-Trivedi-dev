@@ -7,9 +7,16 @@ header{
 }
 
 .latest-news-section{
+	background-color:white;
+	border-radius:25px;
+	align-items:center;
+	align-content:center;
+	vertical-align:middle;
 	
 }
-
+.main-article{
+	
+}
 .pictorial-news-section{
 	
 }
